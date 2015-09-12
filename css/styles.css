@@ -66,7 +66,7 @@ h1 {
     background-color: #FFF;
 }
 
-.ds-city-list:hover li {
+.ds-city-list:hover > li {
     opacity: .6;
 }
 
@@ -78,7 +78,7 @@ h1 {
     padding: 20px 0;
 }
 
-.ds-city-list li:hover {
+.ds-city-list > li:hover {
     opacity: 1;
 }
 
